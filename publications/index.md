@@ -2,6 +2,7 @@
 layout: default
 title: Publications
 ---
+13. Xu, R., **Li, Y.**, Guan, K., Zhao, L., Peng, B., Miao, C., & Fu, B. (2022). Divergent responses of maize yield to precipitation in the United States. Environmental Research Letters, 17(1), 014016. https://doi.org/10.1088/1748-9326/ac3cee
 12. **Li, Y.**, Guan, K., Peng, B., Franz, T. E., Wardlow, B., Pan, M. 2020. Quantifying irrigation cooling benefits to maize yield in the US Midwest. Global Change Biology, 1–14
 11. **Li, Y.**, Guan, K., Schnitkey, D. G., DeLucia, E., Peng, B. 2019. Excessive rainfall leads to maize yield loss of a comparable magnitude to extreme drought in the United States. Global Change Biology, 25, 2325–2337
 10. **Li, Y.**, Guan, K., Yu, A., Peng, B., Zhao, L., Li, B., Peng, J., 2019. Toward building a transparent statistical model for improving crop yield prediction: Modeling rainfed corn in the U.S. Field Crops Research, 234, 55–65

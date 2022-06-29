@@ -9,9 +9,9 @@ My research interest lies in the broad areas of vegetation and climate interacti
 
 <img src="../assets/images/research.png" alt="Alt text" width="800"/> <br>
 Current research projects:
-* Forests and cloud interaction
-* Climate impact of wind and solar farms
-* Crop response to extreme climate in the USA
+* Forests and cloud interactions
+* Climate and ecological impacts of wind and solar farms
+* The coupling of human and natural systems 
 
 
 

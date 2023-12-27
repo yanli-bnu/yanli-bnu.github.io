@@ -3,7 +3,7 @@ layout: default
 title: Home page of Yan Li
 ---
 
-# Research
+Research  
 My research interest lies in the broad areas of vegetation and climate by combining a variety of statistical/mathematical techniques, geospatial analyses, big earth data (remote sensing), and ecosystem/climate/earth system modeling. My work aims to address the sustainability challenges of the coupled human-natural systems through the lenses of vegetation-climate interaction with broad implications in forestry, renewable energy, and food systems. My previous work revealed the biophysical mechanism of how global forest cover changes affect local climate, discovered the important vegetation feedbacks of renewable energy on climate, and advanced mechanistic understanding of the response of natural and agricultural ecosystems to extreme climates.
 * Vegetation and climate interactions
 * Impact of land use and land cover change on climate
@@ -11,7 +11,7 @@ My research interest lies in the broad areas of vegetation and climate by combin
 
 
 <img src="../assets/images/research.png" alt="Alt text" width="800"/> <br>
-Research grants:
+Research grants  
 * Multi-scale climate effects of land cover change combined with biophysical and biogeochemical processes (2024-2027), General Program of National Natural Science Foundation of China (NSFC), PI
 * Ecohydrological processes and their impacts on ecosystem services in dryland regions (2019- 2024), Key Program of NSFC, Participant
 * Mechanisms of human-natural system coupling and optimization of the Yellow River Basin (2020-2024), Special Funds of NSFC. Participant

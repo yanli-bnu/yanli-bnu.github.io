@@ -4,14 +4,14 @@ title: Publications
 ---
 Vegetation and climate interactions
 
-15. **Li, Y.**,<u>Xu, R.</u>, Yang, K., Liu, Y., Wang, S., Zhou, S., Yang, Z., Feng, X., He, C., Xu, Z., & Zhao, W. (2023). Contribution of Tibetan Plateau ecosystems to local and remote precipitation through moisture recycling. Global Change Biology, 29(3), 702– 718 [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16495)
-14. <u>Xu, R.</u>, **Li, Y.**, Teuling, A. J., Zhao, L., Spracklen, D. V, Garcia-Carreras, L., … Fu, B. (2022). Contrasting impacts of forests on cloud cover based on satellite observations. Nature Communications, 13(1), 670. [Link](https://doi.org/10.1038/s41467-022-28161-7)
-16. <u>Lin, H.</u>, **Li, Y**, Zhao, L. (2022). Partitioning of sensible and latent heat fluxes in different vegetation types and their spatiotemporal variations based on 203 FLUXNET sites. Journal of Geophysical Research: Atmospheres, e2022JD037142 [Link](https://onlinelibrary.wiley.com/doi/abs/10.1029/2022JD037142)
-8.  **Yan Li**, Damien Sulla-menash, Safa Motesharrei, Xiao-Peng Song, Qing Ying, Shuangcheng Li, and Zongwen Ma. Inconsistent estimates of forest cover change in China between 2000 and 2013 from multiple datasets: differences in parameters, spatial resolution, and definitions. *Sci. Rep.* **7**, 1–12 (2017). [Link](https://doi.org/:10.1038/s41598-017-07732-5) 
-6.  **Yan Li**, Maosheng Zhao, David J. Mildrexler, Safa Motesharrei, Qiaozhen Mu, Eugenia Kalnay, Fang Zhao, Shuangcheng Li, and Kaicun Wang. Potential and Actual impacts of deforestation and afforestation on land surface temperature. Journal of Geophysical Research: Atmospheres, 121(24):14,372–14,386, 2016
-5.  **Yan Li**, Nathalie De Noblet-Ducoudr ́e, Edouard L. Davin, Safa Motesharrei, Ning Zeng, Shuangcheng Li, and Eugenia Kalnay. The role of spatial scale and background climate inthe latitudinal temperature response to deforestation. Earth System Dynamics, 7(1):167–181
-4.  **Yan Li**, Maosheng Zhao, Safa Motesharrei, Qiaozhen Mu, Eugenia Kalnay, and ShuangchengLi. Local cooling and warming effects of forests based on satellite observations. Nature Communications, 6:6603, mar 2015
-3.  Ya Liu, **Yan Li**, Shuangcheng Li, and Safa Motesharrei. Spatial and Temporal Patternsof Global NDVI Trends: Correlations with Climate and Human Factors. Remote Sensing,7(10):13233–13250, oct 2015
+15. **Li, Y.**\*,<u>Xu, R.</u>, Yang, K., Liu, Y., Wang, S., Zhou, S., Yang, Z., Feng, X., He, C., Xu, Z., & Zhao, W. (2023). Contribution of Tibetan Plateau ecosystems to local and remote precipitation through moisture recycling. ***Global Change Biology***, 29(3), 702– 718 [\[Link\]](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16495)
+14. <u>Xu, R.</u>, **Li, Y.**\*, Teuling, A. J., Zhao, L., Spracklen, D. V, Garcia-Carreras, L., … Fu, B. (2022). Contrasting impacts of forests on cloud cover based on satellite observations. ***Nature Communications***, 13(1), 670. [Link](https://doi.org/10.1038/s41467-022-28161-7)
+16. <u>Lin, H.</u>, **Li, Y**, Zhao, L. (2022). Partitioning of sensible and latent heat fluxes in different vegetation types and their spatiotemporal variations based on 203 FLUXNET sites. ***Journal of Geophysical Research: Atmospheres***, e2022JD037142 [Link](https://onlinelibrary.wiley.com/doi/abs/10.1029/2022JD037142)
+8.  **Li, Y.**\*, Sulla-Menashe, D., Motesharrei, S., Song, X., Ying, Q., Li, S., Ma, Z. (2017). Inconsistent estimates of forest cover change in China between 2000 and 2013 from multiple datasets: differences in parameters, spatial resolution, and definitions. ***Scientific Report*** 7, 1–12. [Link](https://doi.org/:10.1038/s41598-017-07732-5) 
+6.  **Yan Li**, Maosheng Zhao, David J. Mildrexler, Safa Motesharrei, Qiaozhen Mu, Eugenia Kalnay, Fang Zhao, Shuangcheng Li, and Kaicun Wang. Potential and Actual impacts of deforestation and afforestation on land surface temperature. ***Journal of Geophysical Research: Atmospheres***, 121(24):14,372–14,386, 2016
+5.  **Yan Li**, Nathalie De Noblet-Ducoudr ́e, Edouard L. Davin, Safa Motesharrei, Ning Zeng, Shuangcheng Li, and Eugenia Kalnay. The role of spatial scale and background climate inthe latitudinal temperature response to deforestation. ***Earth System Dynamics***, 7(1):167–181
+4.  **Yan Li**, Maosheng Zhao, Safa Motesharrei, Qiaozhen Mu, Eugenia Kalnay, and ShuangchengLi.(2015). Local cooling and warming effects of forests based on satellite observations. Nature Communications, 6:6603 [Link](http://www.nature.com/doifinder/10.1038/ncomms7603)
+3.  Ya Liu, **Yan Li**, Shuangcheng Li, and Safa Motesharrei.(2015) Spatial and Temporal Patternsof Global NDVI Trends: Correlations with Climate and Human Factors. ***Remote Sensing***,7(10):13233–13250 
 
 Crop and agriculture
 13. <u>Xu, R.</u>, **Li, Y.**, Guan, K., Zhao, L., Peng, B., Miao, C., & Fu, B. (2022). Divergent responses of maize yield to precipitation in the United States. Environmental Research Letters, 17(1), 014016. [Link](https://doi.org/10.1088/1748-9326/ac3cee)
@@ -28,7 +28,7 @@ Urbanization impacts
 1.  **Yan Li**, X. Zhao, An empirical study of the impact of human activity on long-term temperature change in China : A perspective from energy consumption. *J. Geophys. Res.* **117**, 1–12 (2012). [Link](http://onlinelibrary.wiley.com/doi/10.1029/2012JD018132/abstract)
 
 Coupled human and natural systems
-7.  Bojie Fu and **Yan Li**. Bidirectional coupling between the earth and human systems is essential for modeling sustainability. National Science Review, 3(4):397–398, 2016
+7.  Fu, B. and **Li, Y.**. Bidirectional coupling between the earth and human systems is essential for modeling sustainability. ***National Science Review***, 3(4):397–398, 2016
 17. **Li, Y.**, <u>Sang, S.</u>, Mote, S., Rivas, J., & Kalnay, E. (2023). Challenges and opportunities for modeling coupled human and natural systems. National Science Review, nwad054 [Link](https://doi.org/10.1093/nsr/nwad054)
 
-Check complete list in [ORCID](http://orcid.org/0000-0002-6336-0981), [Google Scholar](https://scholar.google.com/citations?user=hhNjw4MAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Yan_Li282)
+Check complete publication list in [ORCID](http://orcid.org/0000-0002-6336-0981), [Google Scholar](https://scholar.google.com/citations?user=hhNjw4MAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Yan_Li282)

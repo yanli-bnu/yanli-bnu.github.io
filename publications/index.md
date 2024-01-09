@@ -19,6 +19,7 @@ Crop and climate interactions
 10. **Li, Y.**\*, Guan, K.\*, Yu, A., Peng, B., Zhao, L., Li, B., Peng, J., (2019). Toward building a transparent statistical model for improving crop yield prediction: Modeling rainfed corn in the U.S. ***Field Crops Research***, 234, 55–65. [\[Link\]](https://linkinghub.elsevier.com/retrieve/pii/S0378429018310104)
 
 Feedbacks of renewable energy on climate
+18. <u>Xu, Z.</u>, **Li, Y.**, Qin, Y., Bach, E. (2024). A global assessment of the effects of solar farms on albedo, vegetation, and land surface temperature using remote sensing. ***Solar Energy***, 268, 112198. [\[Link\]](https://www.sciencedirect.com/science/article/pii/S0038092X23008320)
 15. <u>Qin, Y.</u>, **Li, Y.**\*, Xu, R., Hou, C., Armstrong, A., Bach, E., … Fu, B. (2022). Impacts of 319 wind farms on surface temperature and vegetation in the United States. ***Environmental Research Letters***, 17(2), 024026. [\[Link\]](https://iopscience.iop.org/article/10.1088/1748-9326/ac49ba)
 9. **Li, Y.**\*, Kalnay, E.\*, Motesharrei, S.\*, Rivas, J., Kucharski, F., Kirk-Davidoff, D., Bach,E., Zeng, N. (2018). Climate model shows large-scale wind and solar farms in the Sahara increase rain and vegetation. ***Science***. 361, 1019–1022. [\[Link\]](http://www.sciencemag.org/lookup/doi/10.1126/science.aar5629)
 

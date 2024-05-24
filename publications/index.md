@@ -28,8 +28,8 @@ Feedbacks of urbanization on climate
 1.  **Li, Y.**\*, X. Zhao, (2012). An empirical study of the impact of human activity on long-term temperature change in China : A perspective from energy consumption. ***Journal of Geophysical Research***, 117, 1–12. [\[Link\]](http://onlinelibrary.wiley.com/doi/10.1029/2012JD018132/abstract)
 
 Coupled human and natural systems
-19. <u>Hou, C.</u>, **Li, Y.**, Sang, S., Zhao, X., Liu, Y., Liu, Y., & Zhao, F. (2024). High-resolution mapping of monthly industrial water withdrawal in China from 1965 to 2020. ***Earth System Science Data***, 16(5), 2449–2464.[\[Link\]](https://doi.org/10.5194/essd-16-2449-2024) [Download Data](https://doi.org/10.6084/m9.figshare.21901074)
-17. **Li, Y.**\*, <u>Sang, S.</u>, Mote, S., Rivas, J., & Kalnay, E. (2023). Challenges and opportunities for modeling coupled human and natural systems. ***National Science Review***, nwad054 [\[Link\]](https://doi.org/10.1093/nsr/nwad054)
-7.  Fu, B.\* and **Li, Y.**. (2016). Bidirectional coupling between the earth and human systems is essential for modeling sustainability. ***National Science Review***, 3(4):397–398, [\[Link\]](https://academic.oup.com/nsr/article-abstract/3/4/397/2669336)
+19. <u>Hou, C.</u>, **Li, Y.**\*, Sang, S., Zhao, X., Liu, Y., Liu, Y., & Zhao, F. (2024). High-resolution mapping of monthly industrial water withdrawal in China from 1965 to 2020. ***Earth System Science Data***, 16(5), 2449–2464. [\[Link\]](https://doi.org/10.5194/essd-16-2449-2024) [\[Download Data\]](https://doi.org/10.6084/m9.figshare.21901074)
+17. **Li, Y.**\*, <u>Sang, S.</u>, Mote, S., Rivas, J., & Kalnay, E. (2023). Challenges and opportunities for modeling coupled human and natural systems. ***National Science Review***, nwad054. [\[Link\]](https://doi.org/10.1093/nsr/nwad054)
+7.  Fu, B.\* and **Li, Y.**. (2016). Bidirectional coupling between the earth and human systems is essential for modeling sustainability. ***National Science Review***, 3(4):397–398. [\[Link\]](https://academic.oup.com/nsr/article-abstract/3/4/397/2669336)
 
 Check complete publication list in [ORCID](http://orcid.org/0000-0002-6336-0981), [Google Scholar](https://scholar.google.com/citations?user=hhNjw4MAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Yan_Li282)

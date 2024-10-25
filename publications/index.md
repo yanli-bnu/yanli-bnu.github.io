@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 Vegetation and climate interactions
-
+20. **Li, Y.**\*, Xu, R., Yang, Z., Zhou, S., Lu, M., Lin, H., et al. (2024). Upwind Moisture Controls on Interannual Variations of Precipitation and Vegetation in China’s Drylands. ***Geophysical Research Letters***, 51(18), e2024GL110997.[\[Link\]](https://doi.org/10.1029/2024GL110997)
 15. **Li, Y.**\*, <u>Xu, R.</u>, Yang, K., Liu, Y., Wang, S., Zhou, S., Yang, Z., Feng, X., He, C., Xu, Z., & Zhao, W. (2023). Contribution of Tibetan Plateau ecosystems to local and remote precipitation through moisture recycling. ***Global Change Biology***, 29(3), 702– 718 [\[Link\]](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16495)
 14. <u>Xu, R.</u>, **Li, Y.**\*, Teuling, A. J., Zhao, L., Spracklen, D. V, Garcia-Carreras, L., … Fu, B. (2022). Contrasting impacts of forests on cloud cover based on satellite observations. ***Nature Communications***, 13(1), 670. [\[Link\]](https://doi.org/10.1038/s41467-022-28161-7)
 16. <u>Lin, H.</u>, **Li, Y**, Zhao, L. (2022). Partitioning of sensible and latent heat fluxes in different vegetation types and their spatiotemporal variations based on 203 FLUXNET sites. ***Journal of Geophysical Research: Atmospheres***, e2022JD037142 [\[Link\]](https://onlinelibrary.wiley.com/doi/abs/10.1029/2022JD037142)

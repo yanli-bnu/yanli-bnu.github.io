@@ -1,0 +1,129 @@
+- category: "Vegetation and Climate Interactions"
+  papers:
+    - authors: "**Li, Y.**\\*, Xu, R., Yang, Z., Zhou, S., Lu, M., Lin, H., et al."
+      year: 2024
+      title: "Upwind Moisture Controls on Interannual Variations of Precipitation and Vegetation in China's Drylands"
+      journal: "Geophysical Research Letters, 51(18), e2024GL110997"
+      url: "https://doi.org/10.1029/2024GL110997"
+
+    - authors: "**Li, Y.**\\*, Xu, R., Yang, K., Liu, Y., Wang, S., Zhou, S., Yang, Z., Feng, X., He, C., Xu, Z., & Zhao, W."
+      year: 2023
+      title: "Contribution of Tibetan Plateau ecosystems to local and remote precipitation through moisture recycling"
+      journal: "Global Change Biology, 29(3), 702–718"
+      url: "https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16495"
+
+    - authors: "Xu, R., **Li, Y.**\\*, Teuling, A. J., Zhao, L., Spracklen, D. V., Garcia-Carreras, L., … Fu, B."
+      year: 2022
+      title: "Contrasting impacts of forests on cloud cover based on satellite observations"
+      journal: "Nature Communications, 13(1), 670"
+      url: "https://doi.org/10.1038/s41467-022-28161-7"
+
+    - authors: "Lin, H., **Li, Y.**, Zhao, L."
+      year: 2022
+      title: "Partitioning of sensible and latent heat fluxes in different vegetation types and their spatiotemporal variations based on 203 FLUXNET sites"
+      journal: "Journal of Geophysical Research: Atmospheres, e2022JD037142"
+      url: "https://onlinelibrary.wiley.com/doi/abs/10.1029/2022JD037142"
+
+    - authors: "**Li, Y.**\\*, Sulla-Menashe, D., Motesharrei, S., Song, X., Ying, Q., Li, S., Ma, Z."
+      year: 2017
+      title: "Inconsistent estimates of forest cover change in China between 2000 and 2013 from multiple datasets: differences in parameters, spatial resolution, and definitions"
+      journal: "Scientific Reports, 7, 1–12"
+      url: "https://doi.org/10.1038/s41598-017-07732-5"
+
+    - authors: "**Li, Y.**\\*, Zhao, M., Mildrexler, D. J., Motesharrei, S., Mu, Q., Kalnay, E., Zhao, F., Li, S., Wang, K."
+      year: 2016
+      title: "Potential and actual impacts of deforestation and afforestation on land surface temperature"
+      journal: "Journal of Geophysical Research: Atmospheres, 121(24), 14372–14386"
+      url: "http://onlinelibrary.wiley.com/doi/10.1002/2016JD024969/full"
+
+    - authors: "**Li, Y.**\\*, deNoblet-Ducoudré, N., Davin, E. L., Zeng, N., Motesharrei, S., Li, S., Kalnay, E."
+      year: 2016
+      title: "The role of spatial scale and background climate in the latitudinal temperature response to deforestation"
+      journal: "Earth System Dynamics, 7(1), 167–181"
+      url: "https://www.earth-syst-dynam.net/7/167/2016/"
+
+    - authors: "**Li, Y.**\\*, Zhao, M., Motesharrei, S., Mu, Q., Kalnay, E., Li, S."
+      year: 2015
+      title: "Local cooling and warming effects of forests based on satellite observations"
+      journal: "Nature Communications, 6, 6603"
+      url: "http://www.nature.com/doifinder/10.1038/ncomms7603"
+
+- category: "Crop and Climate Interactions"
+  papers:
+    - authors: "Xu, R., **Li, Y.**\\*, Guan, K., Zhao, L., Peng, B., Miao, C., & Fu, B."
+      year: 2022
+      title: "Divergent responses of maize yield to precipitation in the United States"
+      journal: "Environmental Research Letters, 17(1), 014016"
+      url: "https://doi.org/10.1088/1748-9326/ac3cee"
+
+    - authors: "**Li, Y.**\\*, Guan, K.\\*, Peng, B., Franz, T. E., Wardlow, B., Pan, M."
+      year: 2020
+      title: "Quantifying irrigation cooling benefits to maize yield in the US Midwest"
+      journal: "Global Change Biology, 1–14"
+      url: "https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.15002"
+
+    - authors: "**Li, Y.**\\*, Guan, K.\\*, Schnitkey, D. G., DeLucia, E., Peng, B."
+      year: 2019
+      title: "Excessive rainfall leads to maize yield loss of a comparable magnitude to extreme drought in the United States"
+      journal: "Global Change Biology, 25, 2325–2337"
+      url: "https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14628"
+
+    - authors: "**Li, Y.**\\*, Guan, K.\\*, Yu, A., Peng, B., Zhao, L., Li, B., Peng, J."
+      year: 2019
+      title: "Toward building a transparent statistical model for improving crop yield prediction: modeling rainfed corn in the U.S."
+      journal: "Field Crops Research, 234, 55–65"
+      url: "https://linkinghub.elsevier.com/retrieve/pii/S0378429018310104"
+
+- category: "Feedbacks of Renewable Energy on Climate"
+  papers:
+    - authors: "Xu, Z., **Li, Y.**, Qin, Y., Bach, E."
+      year: 2024
+      title: "A global assessment of the effects of solar farms on albedo, vegetation, and land surface temperature using remote sensing"
+      journal: "Solar Energy, 268, 112198"
+      url: "https://www.sciencedirect.com/science/article/pii/S0038092X23008320"
+
+    - authors: "Qin, Y., **Li, Y.**\\*, Xu, R., Hou, C., Armstrong, A., Bach, E., … Fu, B."
+      year: 2022
+      title: "Impacts of wind farms on surface temperature and vegetation in the United States"
+      journal: "Environmental Research Letters, 17(2), 024026"
+      url: "https://iopscience.iop.org/article/10.1088/1748-9326/ac49ba"
+
+    - authors: "**Li, Y.**\\*, Kalnay, E.\\*, Motesharrei, S.\\*, Rivas, J., Kucharski, F., Kirk-Davidoff, D., Bach, E., Zeng, N."
+      year: 2018
+      title: "Climate model shows large-scale wind and solar farms in the Sahara increase rain and vegetation"
+      journal: "Science, 361, 1019–1022"
+      url: "http://www.sciencemag.org/lookup/doi/10.1126/science.aar5629"
+
+- category: "Feedbacks of Urbanization on Climate"
+  papers:
+    - authors: "**Li, Y.**\\*, Zhu, L., Zhao, X., Li, S., Yan, Y."
+      year: 2013
+      title: "Urbanization impact on temperature change in China with emphasis on land cover change and human activity"
+      journal: "Journal of Climate, 26(22), 8765–8780"
+      url: "http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00698.1"
+
+    - authors: "**Li, Y.**\\*, Zhao, X."
+      year: 2012
+      title: "An empirical study of the impact of human activity on long-term temperature change in China: a perspective from energy consumption"
+      journal: "Journal of Geophysical Research, 117, 1–12"
+      url: "http://onlinelibrary.wiley.com/doi/10.1029/2012JD018132/abstract"
+
+- category: "Coupled Human and Natural Systems"
+  papers:
+    - authors: "Hou, C., **Li, Y.**\\*, Sang, S., Zhao, X., Liu, Y., Liu, Y., & Zhao, F."
+      year: 2024
+      title: "High-resolution mapping of monthly industrial water withdrawal in China from 1965 to 2020"
+      journal: "Earth System Science Data, 16(5), 2449–2464"
+      url: "https://doi.org/10.5194/essd-16-2449-2024"
+
+    - authors: "**Li, Y.**\\*, Sang, S., Mote, S., Rivas, J., & Kalnay, E."
+      year: 2023
+      title: "Challenges and opportunities for modeling coupled human and natural systems"
+      journal: "National Science Review, nwad054"
+      url: "https://doi.org/10.1093/nsr/nwad054"
+
+    - authors: "Fu, B.\\* and **Li, Y.**"
+      year: 2016
+      title: "Bidirectional coupling between the earth and human systems is essential for modeling sustainability"
+      journal: "National Science Review, 3(4), 397–398"
+      url: "https://academic.oup.com/nsr/article-abstract/3/4/397/2669336"

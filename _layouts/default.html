@@ -1,32 +1,44 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-			{% include google_analytics.html %}
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/team">Team</a></li>
-				<li><a href="/research">Research</a></li>
-				<li><a href="/publications">Publications</a></li>
-				<li><a href="/links">Links</a></li>
-	        		<li><a href="/blog">News</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:yanli.geo@gmail.com">email</a></li>
-	        		<li><a href="http://geot.bnu.edu.cn/Public/htm/news/5/433.html">Department webpage(Chinese)</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} — Yan Li</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/main.css">
+  </head>
+  <body>
+    <header>
+      <div class="site-wrap">
+        <a class="site-name" href="/">Yan Li</a>
+        <nav>
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/#research">Research</a></li>
+            <li><a href="/#publications">Publications</a></li>
+            <li><a href="/#team">Team</a></li>
+            <li><a href="/#links">Links</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <div class="site-wrap">
+        {{ content }}
+      </div>
+    </main>
+
+    <footer>
+      <div class="site-wrap">
+        <p>Faculty of Geographical Sciences, Beijing Normal University</p>
+        <ul>
+          <li><a href="mailto:yanli@bnu.edu.cn">yanli@bnu.edu.cn</a></li>
+          <li><a href="http://geot.bnu.edu.cn/Public/htm/news/5/433.html">Department (中文)</a></li>
+        </ul>
+      </div>
+    </footer>
+  </body>
+</html>

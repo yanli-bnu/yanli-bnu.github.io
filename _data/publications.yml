@@ -50,6 +50,12 @@
 
 - category: "Crop and Climate Interactions"
   papers:
+    - authors: "Zi, S., **Li, Y.**\\*, Zhang, J., Hou, C., Lin, H., Xu, Z., et al."
+      year: 2025
+      title: "The biophysical and crop yield effects of irrigation and their changes in China's drylands"
+      journal: "Agricultural Water Management, 313, 109471"
+      url: "https://doi.org/10.1016/j.agwat.2025.109471"
+
     - authors: "Xu, R., **Li, Y.**\\*, Guan, K., Zhao, L., Peng, B., Miao, C., & Fu, B."
       year: 2022
       title: "Divergent responses of maize yield to precipitation in the United States"

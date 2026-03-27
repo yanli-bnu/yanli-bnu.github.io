@@ -9,8 +9,8 @@ title: Home
     <p class="hero-subtitle">Professor · Faculty of Geographical Sciences · Beijing Normal University</p>
     <p>I obtained my Ph.D. from Peking University in 2015 and was a Postdoctoral researcher at the University of Illinois at Urbana-Champaign and University of Maryland, College Park from 2015 to 2018. My research focuses on vegetation–climate interactions and climate change impacts on agriculture. I have published more than 40 peer-reviewed articles, including first-author papers in <em>Science</em>, <em>Nature Communications</em>, and <em>Global Change Biology</em>.</p>
     <div class="hero-contact">
-      <a href="mailto:yanli@bnu.edu.cn">yanli@bnu.edu.cn</a>
       <a href="mailto:yanli.geo@gmail.com">yanli.geo@gmail.com</a>
+      <a href="mailto:yanli@bnu.edu.cn">yanli@bnu.edu.cn</a>
       <a href="http://geot.bnu.edu.cn/Public/htm/news/5/433.html">Department Webpage (中文)</a>
     </div>
   </div>
@@ -36,14 +36,7 @@ title: Home
     <li>Coupled human and natural systems</li>
   </ul>
   <img src="/assets/images/research.png" alt="Research overview">
-  <h2>Research Grants</h2>
 </div>
-<ul class="grants-list" style="margin-bottom:48px;">
-  <li>Multi-scale climate effects of land cover change combined with biophysical and biogeochemical processes (2024–2027) · General Program of NSFC · <strong>PI</strong></li>
-  <li>Impacts of wind and solar power facilities on local climate based on multiple remote sensing samples (2020–2022) · Youth Program of NSFC · <strong>PI</strong></li>
-  <li>Ecohydrological processes and their impacts on ecosystem services in dryland regions (2019–2024) · Key Program of NSFC · Participant</li>
-  <li>Mechanisms of human-natural system coupling and optimization of the Yellow River Basin (2020–2024) · Special Funds of NSFC · Participant</li>
-</ul>
 
 <!-- Publications -->
 <h2 class="section-heading" id="publications">Publications</h2>
@@ -82,22 +75,35 @@ title: Home
 </div>
 <div class="team-section">
   <h2>Current Members</h2>
-  <ul class="member-list">
+  <div class="member-grid">
     {% for member in site.data.team.current %}
-    <li><strong>{{ member.name }}</strong> — {{ member.role }}</li>
+    <div class="member-card">
+      {% if member.photo %}
+      <img src="{{ member.photo }}" alt="{{ member.name }}">
+      {% else %}
+      <div class="member-photo-placeholder"></div>
+      {% endif %}
+      <div class="member-name">{{ member.name }}</div>
+      <div class="member-role">{{ member.role }}</div>
+    </div>
     {% endfor %}
-  </ul>
+  </div>
 </div>
 <div class="team-section">
   <h2>Alumni</h2>
-  <ul class="member-list">
+  <div class="member-grid">
     {% for member in site.data.team.alumni %}
-    <li>
-      <strong>{{ member.name }}</strong> — {{ member.role }}
-      {% if member.note %}<span style="color:#6b7280"> · {{ member.note }}</span>{% endif %}
-    </li>
+    <div class="member-card">
+      {% if member.photo %}
+      <img src="{{ member.photo }}" alt="{{ member.name }}">
+      {% else %}
+      <div class="member-photo-placeholder"></div>
+      {% endif %}
+      <div class="member-name">{{ member.name }}</div>
+      <div class="member-role">{{ member.role }}{% if member.note %} · {{ member.note }}{% endif %}</div>
+    </div>
     {% endfor %}
-  </ul>
+  </div>
 </div>
 
 <!-- Links -->

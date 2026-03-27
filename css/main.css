@@ -371,14 +371,14 @@ main { padding-bottom: 100px; }
 
 .member-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-  gap: 16px 12px;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 20px 16px;
   margin-bottom: 24px;
 }
 
 .member-card {
   text-align: center;
-  padding: 12px 6px;
+  padding: 16px 8px;
   border-radius: 10px;
   transition: background 0.15s;
 }
@@ -387,11 +387,11 @@ main { padding-bottom: 100px; }
 
 .member-card img,
 .member-photo-placeholder {
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
   border-radius: 50%;
   object-fit: cover;
-  margin: 0 auto 8px;
+  margin: 0 auto 10px;
   display: block;
 }
 

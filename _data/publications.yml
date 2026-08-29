@@ -1,18 +1,18 @@
 - category: "Vegetation and Climate Interactions"
   papers:
-    - authors: "Yu, Y., **Li, Y.**, Liu, Y., Liu, D., Chen, H., & Zhao, Z."
+    - authors: "Yu, Y., **Li, Y.**\\*, Liu, Y., Liu, D., Chen, H., & Zhao, Z."
       year: 2026
       title: "Asymmetry of Land Surface Temperature Response to Forest Gain and Loss: The Role of Land Cover Conversions"
       journal: "Geophysical Research Letters, 53(14), e2026GL123073"
       url: "https://doi.org/10.1029/2026GL123073"
 
-    - authors: "Zhao, Z., **Li, Y.**, Xu, R., Meier, R., Liu, L., Chen, L., et al."
+    - authors: "Zhao, Z., **Li, Y.**\\*, Xu, R., Meier, R., Liu, L., Chen, L., et al."
       year: 2026
       title: "Intercomparison of Methods for Disentangling Local and Nonlocal Biophysical Impacts of Land Cover Changes"
       journal: "Earth's Future, 14(5), e2025EF007704"
       url: "https://doi.org/10.1029/2025EF007704"
 
-    - authors: "Zhong, H., **Li, Y.**, Chen, Y., Liu, D., Chen, H., Sang, S., et al."
+    - authors: "Zhong, H., **Li, Y.**\\*, Chen, Y., Liu, D., Chen, H., Sang, S., et al."
       year: 2026
       title: "Biogeochemical cooling offsets biogeophysical warming from land cover changes in China from 2000 to 2020"
       journal: "Transactions in Earth, Environment, and Sustainability, 3(3–4), 264–281"

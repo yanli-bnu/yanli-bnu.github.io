@@ -132,7 +132,7 @@
 
 - category: "Crop and Climate Interactions"
   papers:
-    - authors: "Zi, S., Liu, Y., **Li, Y.**, Wang, S., Sang, S., Lin, H., et al."
+    - authors: "Zi, S., Liu, Y., **Li, Y.**\\*, Wang, S., Sang, S., Lin, H., et al."
       year: 2026
       title: "Projected climate change impacts on crop yields in China's drylands by statistical models and emulators"
       journal: "Agricultural Systems, 239, 104949"
